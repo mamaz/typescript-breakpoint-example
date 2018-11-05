@@ -1,14 +1,12 @@
 {
   "name": "breakpoint",
   "version": "1.0.0",
-  "description": "Demo breakpoint in VS Code",
+  "description": "Breakpoint Demo in VS Code",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mamazo",
-  "license": "ISC",
-  "dependencies": {
-    "typescript": "^3.1.6"
-  }
+  "author": "mamaz",
+  "license": "MIT",
+  "dependencies": {}
 }
