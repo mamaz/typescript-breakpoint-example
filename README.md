@@ -1,8 +1,8 @@
 # Add Breakpoint To Your Typescript
 
-This example will show you how to activating breakpoint in `.ts` file.
+This example will show you how to activate breakpoint in `.ts` file.
 
-Adding breakpoint is crucial for debugging your app.
+Adding breakpoint is crucial for debugging your program.
 
 ## Basics
 
@@ -10,7 +10,7 @@ You need to add and configure `launch.json` and `tasks.json`.
 
 `launch.json` needs to be set so that debugger can read the source maps. It needs to have `sourceMaps` field to be set to `true`.
 
-`tasks.json` needs to be set to run `tsc` before the debugging is running.
+`tasks.json` needs to be set to run `tsc` before the debugger is running.
 
 ## How to Run The Example
 
